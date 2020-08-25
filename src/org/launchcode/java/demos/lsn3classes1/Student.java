@@ -5,9 +5,9 @@ package org.launchcode.java.demos.lsn3classes1;
 
 public class Student {
 
-    private String name;
+    private String Josh;
     private int studentId;
-    private int numberOfCredits = 0;
-    private double gpa = 0.0;
+    private int numberOfCredits = 1;
+    private double gpa = 4.0;
 
 }
